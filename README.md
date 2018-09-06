@@ -1,4 +1,4 @@
-# ror-crud
+# ruby on rail-mysql crud
 
 
 Install ruby
